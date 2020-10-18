@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\HP\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\HP\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.StringFormatException.resources
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\HP\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
